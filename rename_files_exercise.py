@@ -17,5 +17,6 @@ def rename_files():
         table = file_name.maketrans(dict.fromkeys('0123456789'))
         new_file_name = file_name.translate(table)
         print('new file name: ' + new_file_name)
+        os.rename(file_name, new_file_name)
         print('')
 rename_files()
