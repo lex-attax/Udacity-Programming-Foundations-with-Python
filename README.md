@@ -1,2 +1,2 @@
 # Udacity-Programming-Foundations-with-Python
-https://udacity.com/course/intro-to-data-analysis--ud170
+https://de.udacity.com/course/programming-foundations-with-python--ud036
